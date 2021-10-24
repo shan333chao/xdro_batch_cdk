@@ -1,16 +1,15 @@
 # 心动网络 仙境传说.守护永恒的爱手游 cdk奖品批量自动领取
+
+### 仙境传说手游二区 - 梦想天空服 [星尘] gvg公会 招人 
+##### 猛男会长微信号: yifeiyyt   
+
 ## 原始页面
 ![image](ro_xd_cdk.png)
 
 ### 功能如下
 1. 验证码自动识别和重试
 2. 按角色名单列表全批量领取
-<<<<<<< HEAD
 
-# ——————————————
-=======
-3. ![image](https://github.com/shan333chao/xdro_batch_cdk/blob/main/ro_xd_cdk.png)
->>>>>>> 29e765441893b9f9c3540dd78c845972abe3ba85
 ## 使用方法 修改 batch_ro_cdk.py  
             安装依赖  Python环境 ≥python3.6
             pip3 install ddddocr
@@ -52,5 +51,4 @@
 
 
 
-### 仙境传说手游二区 - 梦想天空服 [星尘] gvg公会 招人 
-##### 猛男会长微信号: yifeiyyt   
+
