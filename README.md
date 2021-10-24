@@ -3,7 +3,6 @@
 1. 验证码自动识别和重试
 2. 按角色名单列表全批量领取
 3. ![image](https://github.com/shan333chao/xdro_batch_cdk/blob/main/ro_xd_cdk.png)
-# ——————————————
 ## 使用方法 修改 batch_ro_cdk.py  
 1. 更改新的礼包兑换码
 
@@ -39,7 +38,6 @@
 
    
 
-# ———————————————
 
 
 ### 仙境传说手游二区 - 梦想天空服 [星尘] gvg公会 招人 
