@@ -1,10 +1,17 @@
 # 心动网络 仙境传说.守护永恒的爱手游 cdk奖品批量自动领取
+## 原始页面
+![image](ro_xd_cdk.png)
+
 ### 功能如下
 1. 验证码自动识别和重试
 2. 按角色名单列表全批量领取
-3. ![image](ro.com_cdkey.png)
+
 # ——————————————
 ## 使用方法 修改 batch_ro_cdk.py  
+            安装依赖  Python环境 ≥python3.6
+            pip3 install ddddocr
+            pip3 install requests
+
 1. 更改新的礼包兑换码
 
             gift_code = '1021LZF4DQY'
