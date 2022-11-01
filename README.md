@@ -12,12 +12,11 @@
 
 ## 使用方法 修改 batch_ro_cdk.py  
             安装依赖  Python环境 ≥python3.6
-            pip3 install ddddocr
-            pip3 install requests
+            pip3 install -r requirements.txt
 
-1. 更改新的礼包兑换码
+1. 更改新的礼包兑换码 gift_key.py
 
-            gift_code = '1021LZF4DQY'
+            GIFT_CODE = '1021LZF4DQY'
 
 2. 更改要领取账号所在的服务器的编号
 
