@@ -1,0 +1,1 @@
+GAFT_CODE = "QYSW10L5"

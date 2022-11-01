@@ -1,0 +1,9 @@
+Faker~=11.3.0
+pypinyin~=0.45.0
+requests~=2.27.1
+ddddocr~=1.4.3
+ujson~=4.1.0
+schedule~=1.1.0
+arrow~=1.2.2
+loguru~=0.6.0
+numpy~=1.21.3
