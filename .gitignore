@@ -1,3 +1,7 @@
 .idea
 *.json
 __pycache__
+*.log
+*.rar
+*.zip
+*/accounts/*

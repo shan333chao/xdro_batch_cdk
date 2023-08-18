@@ -1,0 +1,1 @@
+nohup python3 /root/SMS_RECEIVE/SMS_WEB.py > /root/SMS_RECEIVE/nohup.log 2>&1 &

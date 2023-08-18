@@ -1,0 +1,12 @@
+{
+    "InstallDir":"D:\\leidian\\LDPlayer4",
+    "DataDir":"D:\\leidian\\LDPlayer4\\vms", 
+    "START_COUNT" : 12,
+    "WAIT_SECONDS":1, 
+    "RUN_MINUTE" : 5, 
+    "EXCEPT_INDEX" : [],
+    "MAX_SERVER_COUNT":15,
+    "PKG_KEY":"RO_RENZHE_1",
+    "PKG_API":"http://0.0.0.0:5053/pkg",
+    "ACCOUNT_SERVER":"http://127.0.0.1:23333/seq/get"
+}

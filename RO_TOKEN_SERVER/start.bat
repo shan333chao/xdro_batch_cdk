@@ -1,0 +1,1 @@
+uvicorn RO_TOKEN_SERVER:app --host 0.0.0.0 --port 23333 --workers 1

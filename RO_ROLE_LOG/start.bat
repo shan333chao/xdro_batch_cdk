@@ -1,0 +1,1 @@
+uvicorn ROLE_LOG:app --host 0.0.0.0 --port 5007 --workers 1
